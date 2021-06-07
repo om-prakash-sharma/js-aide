@@ -1,0 +1,20 @@
+{
+  "name": "js-aide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/om-prakash-sharma/js-aide.git"
+  },
+  "keywords": ["js-helper", "helper", "common-js"],
+  "author": "Om Prakash Sharma <om.sharma@outlook.in>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/om-prakash-sharma/js-aide/issues"
+  },
+  "homepage": "https://github.com/om-prakash-sharma/js-aide#readme"
+}
